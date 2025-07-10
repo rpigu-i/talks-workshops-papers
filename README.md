@@ -25,6 +25,12 @@ BSides SLC attendees will learn about setting up basic DevSecOps CI/CD processes
 
 *Course material:* https://github.com/tweag/bsidesslc-2025-shift-left-workshop
 
+## AWS Re:invent 2024: GitHub Booth "Shift Security Left with DSOMM and GitHub"
+Pressnted by myself
+
+Lightening talk at GitHub booth #426 to show how organizations can shift security left with DSOMM and GitHub and more effectively mitigate threats.
+
+
 ## BSides Connecticut 2024: DevSecOps and Securing your SDLC
 I supported Bill Reyor in the Lab.
 
@@ -45,7 +51,7 @@ This workshop on DevSecOps and securing your SDLC provides BSides Las Vegas part
 
 *Course material:*  https://github.com/tweag/bsideslv-devsecops-sdlc
 
-## HOPE XV: Mastering Security in Development
+## HOPE XV 2024: Mastering Security in Development
 Presented by myself, Sean Clayton and Bill Reyor
 
 This is a hands-on workshop that provides participants with an introduction to secure software development and leveraging DevSecOps tooling to aid in this. Participants will learn about setting up a local development environment that includes security tooling.
@@ -85,6 +91,8 @@ The workshop will then wrap up with tips on how to handle secure deployments and
 *Link:* https://events.bsidestampa.net/BSidesTampa2024
 
 *Course material:* https://github.com/tweag/bsides-tampa-workshop
+
+
 
 
 
