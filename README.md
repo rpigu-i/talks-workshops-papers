@@ -431,6 +431,172 @@ Recorded July 17 at the Stack Overflow offices in New York for the NYC DevOps me
 
 ---
 
+## 📚 **DIGITAL ARCHIVES** 📚
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│ >> ACCESSING PUBLICATION DATABASE...                           │
+│ >> TIMELINE: 2013.02 - 2020.09                                │
+│ >> CLASSIFICATION: TECHNICAL_PUBLICATIONS                      │
+│ >> FORMAT: PHYSICAL_MEDIA + DIGITAL_DISTRIBUTION              │
+└────────────────────────────────────────────────────────────────┘
+```
+
+### 🐳 **[2020.09.14]** Docker for Developers: Develop and run your application with Docker containers using DevOps tools for continuous delivery
+
+```diff
++ PROTOCOL: Technical Publication | CO-AUTHORS: Andrew Dennis, Richard Bullington-McGuire, Michael Schwartz
++ PUBLISHER: Packt Publishing
++ PAGES: 468 | EDITION: 1st | LANGUAGE: English
++ FOCUS: Docker Containerization + DevOps + CI/CD
+```
+
+Docker is the de facto standard for containerizing apps, and with an increasing number of software projects migrating to containers, it is crucial for engineers and DevOps teams to understand how to build, deploy, and secure Docker environments effectively. Docker for Developers will help you understand Docker containers from scratch while taking you through best practices and showing you how to address security concerns.
+
+**TECHNICAL SCOPE:**
+- Container fundamentals and VirtualBox integration
+- Development environment containerization
+- Production deployment strategies (single-host + clusters)
+- CI/CD pipeline integration (Jenkins, Kubernetes, Spinnaker)
+- Monitoring and scaling (Prometheus, Grafana)
+- Cloud-native deployment (Amazon EKS)
+- Docker security concepts and best practices
+
+```bash
+# Access Points
+LINK_PRIMARY="https://www.packtpub.com/en-us/product/docker-for-developers-9781789539486"
+```
+
+**🔗 [NETWORK_LINK]** https://www.packtpub.com/en-us/product/docker-for-developers-9781789539486
+
+---
+
+### 🏗️ **[2016.03.22]** Raspberry Pi Computer Architecture Essentials
+
+```diff
++ PROTOCOL: Technical Publication | AUTHOR: Solo Mission
++ PUBLISHER: Packt Publishing
++ PAGES: 232 | EDITION: 1st | LANGUAGE: English
++ ISBN-13: 9781784398606
++ FOCUS: Raspberry Pi 2 + Multi-core Programming + Hardware Integration
+```
+
+With the release of the Raspberry Pi 2, a new series of the popular compact computer is available for you to build cheap, exciting projects and learn about programming. In this book, we explore Raspberry Pi 2's hardware through a number of projects in a variety of programming languages.
+
+**TECHNICAL SCOPE:**
+- Hardware component analysis and setup
+- Multi-language programming environment (Assembly, C/C++, Python)
+- Multi-threaded application development
+- Multi-core processor utilization
+- Storage expansion beyond SD cards
+- Graphics hardware interaction
+- Sound programming fundamentals
+- Python-based web server development
+- Third-party microcontroller integration
+
+```bash
+# Access Points
+LINK_PRIMARY="https://www.packtpub.com/en-us/product/raspberry-pi-computer-architecture-essentials-9781784398606"
+```
+
+**🔗 [NETWORK_LINK]** https://www.packtpub.com/en-us/product/raspberry-pi-computer-architecture-essentials-9781784398606
+
+---
+
+### 🏠 **[2015.02.25]** Raspberry Pi Home Automation with Arduino - Second Edition
+
+```diff
++ PROTOCOL: Technical Publication | AUTHOR: Solo Mission
++ PUBLISHER: Packt Publishing
++ PAGES: 148 | EDITION: 2nd | LANGUAGE: English
++ ISBN-13: 9781784393939
++ FOCUS: IoT + Home Automation + Arduino Integration
+```
+
+Unleash the power of the most popular microboards to build convenient, useful, and fun home automation projects, Second Edition.
+
+**TARGET AUDIENCE:**
+If you are new to the Raspberry Pi, the Arduino, or home automation and wish to develop some amazing projects using these tools, then this book is for you. Any experience in using the Raspberry Pi would be an added advantage.
+
+**TECHNICAL SCOPE:**
+- Raspberry Pi and Cooking Hacks Arduino bridge shield setup
+- Electronic component circuit building
+- Interactive application development
+- Environmental monitoring (thermistors, FSRs, photoresistors)
+- Ethernet-based Pi-Arduino communication
+- Email notification systems
+- Mains power control via relay shields
+- Motor integration and control
+- Flood/damp detection systems
+
+```bash
+# Access Points
+LINK_PRIMARY="https://www.packtpub.com/en-us/product/raspberry-pi-home-automation-with-arduino-second-edition-9781784393939"
+```
+
+**🔗 [NETWORK_LINK]** https://www.packtpub.com/en-us/product/raspberry-pi-home-automation-with-arduino-second-edition-9781784393939
+
+---
+
+### 🖥️ **[2013.11.20]** Raspberry Pi Super Cluster
+
+```diff
++ PROTOCOL: Technical Publication | AUTHOR: Solo Mission
++ PUBLISHER: Packt Publishing
++ PAGES: 126 | EDITION: 1st | LANGUAGE: English
++ ISBN-13: 9781783286201
++ FOCUS: Parallel Computing + Cluster Architecture + Distributed Systems
+```
+
+A cluster is a type of parallel/distributed processing system which consists of a collection of interconnected stand-alone computers cooperatively working together. Using Raspberry Pi computers, you can build a two-node parallel computing cluster which enhances performance and availability.
+
+**TECHNICAL SCOPE:**
+- Multi-node Raspberry Pi hardware setup
+- Operating system configuration and optimization
+- Parallel computing fundamentals
+- Hadoop ecosystem implementation
+- MPICH (Message Passing Interface) integration
+- MapReduce programming patterns
+- Cluster management and monitoring
+- Performance optimization techniques
+
+**LEARNING PATH:**
+Starting from a pile of hardware, this book guides you through exciting tutorials that will help you turn your hardware into your own super-computing cluster. The journey progresses from basic hardware setup through advanced distributed computing concepts, culminating in practical ancillary projects and resources for further development.
+
+```bash
+# Access Points
+LINK_PRIMARY="https://www.packtpub.com/en-us/product/raspberry-pi-super-cluster-9781783286201"
+```
+
+**🔗 [NETWORK_LINK]** https://www.packtpub.com/en-us/product/raspberry-pi-super-cluster-9781783286201
+
+---
+
+### 🏠 **[2013.02.05]** Raspberry Pi Home Automation with Arduino - First Edition
+
+```diff
++ PROTOCOL: Technical Publication | AUTHOR: Solo Mission
++ PUBLISHER: Packt Publishing
++ PAGES: 176 | EDITION: 1st | LANGUAGE: English
++ ISBN-10: 1849695865 | ISBN-13: 978-1849695862
++ STATUS: OUT_OF_PRINT | CLASSIFICATION: LEGACY_ARCHIVE
+```
+
+**HISTORICAL SIGNIFICANCE:**
+Currently out of print. Use of the Arduino, Raspberry Pi and Gertboard for IoT projects.
+
+**TECHNICAL SCOPE:**
+- Arduino and Raspberry Pi integration fundamentals
+- Gertboard hardware interface utilization
+- IoT project development methodologies
+- Home automation system architecture
+- Electronic prototyping and circuit design
+
+**ARCHIVE STATUS:**
+This publication represents the foundational work in the home automation series, introducing core concepts that were expanded upon in the Second Edition. While no longer in active distribution, it established the framework for subsequent publications in the series.
+
+---
+
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                     CONNECTION TERMINATED                        ║
