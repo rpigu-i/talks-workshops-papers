@@ -37,12 +37,22 @@ In this workshop, you'll learn the basics of DevSecOps and securing your SDLC us
 *Course material:*  https://github.com/tweag/bsidesct-devsecops-sdlc
 
 ## BSides Las Vegas 2024: DevSecOps and Securing your SDLC
+Presened by myself, Bill Reyor and Sean Clayton 
 
 This workshop on DevSecOps and securing your SDLC provides BSides Las Vegas participants with a basic guide to using DevSecOps tooling including open source options, and those native to GitHub BSidesLV attendees will learn about setting up IDE plugins, pre-commit hooks and other techniques to harden their development environment. Attendees will then progress into building out CI/CD pipeline that use DevSecOps concepts such as secrets scanning, dependency analysis and Static Analysis Security Testing.
 
 *Link:* https://archive.bsideslv.org/2024/
 
 *Course material:*  https://github.com/tweag/bsideslv-devsecops-sdlc
+
+## HOPE XV: Mastering Security in Development
+Presented by myself, Sean Clayton and Bill Reyor
+
+This is a hands-on workshop that provides participants with an introduction to secure software development and leveraging DevSecOps tooling to aid in this. Participants will learn about setting up a local development environment that includes security tooling.
+
+*Link:*  https://xv.hope.net/talk/EMHGYE/
+
+*Course material:* https://github.com/tweag/hope-sec-dev-workshop-2024
 
 ## BSides Puerto Rico 2024: Shift Down: Foundational Security with Internal Developer Platforms
 Talk presented by myself at BSides PR.
