@@ -93,6 +93,8 @@ The workshop will then wrap up with tips on how to handle secure deployments and
 *Course material:* https://github.com/tweag/bsides-tampa-workshop
 
 ## DEFCON Recon Village 2023: The Perils of Generative AI: Implications for Open Source Intelligence Research
+Presented by myself
+
 The rapid advancement and proliferation of Generative AI in social media and other digital platforms have sparked significant discussion about their potential impact on various sectors, including Open Source Intelligence (OSINT) research. OSINT, a critical resource in security, intelligence, and research fields, heavily relies on social media and other platforms to gather and analyze publicly available data. With the recent proliferation of  Large Language Models (LLMs) and their interaction with these platforms, concerns have emerged about their potential to hinder the efficacy and integrity of OSINT.
 
 
@@ -112,8 +114,17 @@ In conclusion, the talk will underscore the importance of this issue for the OSI
 
 *Talk video* https://www.reconvillage.org/talks-recon-village-defcon/the-perils-of-generative-ai%3A-implications-for-open-source-intelligence-research
 
+## DEFCON Recon Village 2021: Using Passive DNS for gathering Business Intelligence
+Presented by myself
 
+*Talk video:* https://www.reconvillage.org/talks-recon-village-defcon/using-passive-dns-for-gathering-business-intelligence
 
+## BSides CT 2020: A basic guide to COBOL Security
+Presented by myself
+
+COBOL has come back onto the radar of many of us in the tech industry during 2020 due to the large number of legacy systems struggling to cope with increased traffic. We all heard about unemployment systems in New Jersey lacking the skilled engineers required to help improve COBOL based systems. But did you know, COBOL is still widely used in the banking sector and elsewhere? In this talk we will look at some of the security steps you can take to improve a COBOL systems security posture. Whether maintaining COBOL systems as an engineer, or performing threat modeling on then, this is the talk for you!
+
+*Talk video:* https://www.youtube.com/watch?v=2IJEl_gslFQ&list=PL5CtRPjZ1XFEmoWu1TE_QkqfwATyQLc9f&index=7
 
 
 
