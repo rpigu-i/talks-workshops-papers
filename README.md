@@ -145,6 +145,12 @@ Following this, we will walk through some real-world examples of actions that me
 
 *Talk video:* https://www.youtube.com/watch?v=Geeh0fGXAPM&list=PL5CtRPjZ1XFHmd3TwPksbFKjtGQb2azS0
 
+## NYC DevOps Meetup July 2018 @ Stack Overflow: Baking static analysis into your CI pipeline 
+Presented by myself, host Tom Limoncelli
+
+Recorded July 17 at the Stack Overflow offices in New York for the NYC DevOps meetup.
+
+*Talk video:* https://www.youtube.com/watch?v=c4cgbRgYrVs&t=1032s
 
 
 
