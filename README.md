@@ -126,5 +126,27 @@ COBOL has come back onto the radar of many of us in the tech industry during 202
 
 *Talk video:* https://www.youtube.com/watch?v=2IJEl_gslFQ&list=PL5CtRPjZ1XFEmoWu1TE_QkqfwATyQLc9f&index=7
 
+## BSides CT 2019: Election hacking defined and how to fight back
+Presented by myself
+
+Content was dervived from my Masters thesis.
+
+What does election hacking mean?
+
+Coming up with a definition is fraught with difficulties. Where are the boundaries where an incident is no longer considered hacking, but some other crime? The term is often thrown around in the media but can be ill-defined & nebulous.
+
+Each jurisdiction implements different rules for whom can donate and participate in elections. Is illegal funding an election campaign hacking, or electoral fraud? Do these types of actions which predate the Internet, & computing, in general, constitute hacking?
+
+Typical ways of throwing elections from fraudulent ballots to ballot stuffing have been observed in multiple countries. Should these be considered hacking too?
+
+In this presentation drawing upon research conducted from 2017 through 2019, we will seek to narrow the term down into something more concrete. With this goal in mind, we will then look at six proposed attack vectors (called the hexad) that comprise the attack surface elections & referendum can face from hackers.
+
+Following this, we will walk through some real-world examples of actions that meet this criterion, and how some campaigns have successfully fought back. The talk will wrap up with some thoughts on how future electoral campaigns can defend against nefarious actors.
+
+*Talk video:* https://www.youtube.com/watch?v=Geeh0fGXAPM&list=PL5CtRPjZ1XFHmd3TwPksbFKjtGQb2azS0
+
+
+
+
 
 
