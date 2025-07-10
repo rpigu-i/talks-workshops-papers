@@ -92,6 +92,25 @@ The workshop will then wrap up with tips on how to handle secure deployments and
 
 *Course material:* https://github.com/tweag/bsides-tampa-workshop
 
+## DEFCON Recon Village 2023: The Perils of Generative AI: Implications for Open Source Intelligence Research
+The rapid advancement and proliferation of Generative AI in social media and other digital platforms have sparked significant discussion about their potential impact on various sectors, including Open Source Intelligence (OSINT) research. OSINT, a critical resource in security, intelligence, and research fields, heavily relies on social media and other platforms to gather and analyze publicly available data. With the recent proliferation of  Large Language Models (LLMs) and their interaction with these platforms, concerns have emerged about their potential to hinder the efficacy and integrity of OSINT.
+
+
+This talk will first provide a background on Generative AI and OSINT, explaining the capabilities of LLMs and the importance of OSINT in various fields. It will then delve into how LLMs are/can be used with social media and other platforms, and their potential influence on OSINT research.
+
+
+We will discuss several challenges posed by LLMs to OSINT. These include issues of data validity and reliability, as the difficulty in distinguishing between human generated and Generative AI generated content can lead to skewed or false data. The potential for information pollution and spread of misinformation is another significant concern, especially given the capacity of LLMs to generate large volumes of persuasive and contextually relevant content. Moreover, problems related to source attribution and provenance may arise, adding a layer of complexity to the analysis of open source data. Lastly, the potential of Generative AI for AI driven influence operations could distort the information landscape, posing further challenges to OSINT.
+
+
+Possible solutions and mitigation strategies will be proposed, which include enhancing data validation and verification techniques, improving AI literacy among OSINT researchers, advocating for more transparency around Generative AI usage in social media, and employing AI tools to detect and flag AI generated content.
+
+
+The future of LLMs and other forms of Generative AI and their potential impact on OSINT will be discussed, with a focus on emerging trends and technologies. Suggestions for further research and study on this issue will be provided, highlighting the urgent need for continued vigilance and proactive measures in the face of rapidly evolving LLM capabilities.
+
+
+In conclusion, the talk will underscore the importance of this issue for the OSINT community, emphasizing the need for ongoing research and adaptive strategies to navigate the challenges posed by the increasing use of Generative AI in social media and other platforms. The session will close with Q&A, offering an opportunity for further discussion by the Recon village audience.
+
+*Talk video* https://www.reconvillage.org/talks-recon-village-defcon/the-perils-of-generative-ai%3A-implications-for-open-source-intelligence-research
 
 
 
