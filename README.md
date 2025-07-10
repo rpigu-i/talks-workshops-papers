@@ -290,6 +290,30 @@ The rapid advancement and proliferation of Generative AI in social media and oth
 
 ---
 
+### 🍊 **[2022.11.08]** BSides Orlando - *DevSecOps on a $ store budget*
+
+```diff
++ PROTOCOL: Tight Security Budget | COLLABORATION: Solo Presentation 
++ DOMAIN: DevSecOps
++ VENUE: BSides Orlando 2024
++ TECHNIQUE: DevSecOps and Shifting Left 
+```
+
+Security tooling can be expensive, very expensive. Never fear though, there are a multitude of cheap and open source options out there. You too can build a robust DevSecOps pipeline on a dollar store budget.
+
+Covering everything from open source SAST tools to free secret scanning and Infrastructure-as-Code audits, this talk walks you through options to build out CI/CD pipelines that help to secure your code base without taking out a second mortgage.
+
+Some basic knowledge of DevOps and CI/CD would be useful but is not mandatory. 
+
+```bash
+# Access Points
+LINK_PRIMARY="https://2022.bsidesorlando.org/speakers/index.html"
+```
+
+**🔗 [NETWORK_LINK]** https://2022.bsidesorlando.org/speakers/index.html
+
+---
+
 ### 🕵️ **[2021.08.07]** DEFCON Recon Village - *Using Passive DNS for gathering Business Intelligence*
 
 ```diff
