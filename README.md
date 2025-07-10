@@ -58,9 +58,9 @@ $ cat /proc/presentations/manifest
 ```
 
 ### 🔥 **MATRIX-LEVEL ENGAGEMENTS**
+- [**2025.04.26** - BSides San Francisco - Shifting Left Workshop](#-20250426-bsides-san-francisco-shifting-left-a-hands-on-introductory-guide-to-devsecops)
+- [**2025.04.10** - BSides Salt Lake City - DevSecOps Workshop](#️-20250410-bsides-salt-lake-city-devsecops-a-hands-on-introductory-guide)
 - [**2025.02.26** - Microsoft Reactor - Using the OWASP DSOMM with GitHub](#-20250226-microsoft-reactor-using-the-owasp-dsomm-with-github)
-- [**2025.02.15** - BSides San Francisco - Shifting Left Workshop](#-20250215-bsides-san-francisco-shifting-left-a-hands-on-introductory-guide-to-devsecops)
-- [**2025.01.25** - BSides Salt Lake City - DevSecOps Workshop](#️-20250125-bsides-salt-lake-city-devsecops-a-hands-on-introductory-guide)
 - [**2024.12.02** - AWS Re:Invent - GitHub Booth Talk](#️-20241202-aws-reinvent-github-booth-shift-security-left-with-dsomm-and-github)
 - [**2024.11.09** - BSides Connecticut - DevSecOps and Securing your SDLC](#-20241109-bsides-connecticut-devsecops-and-securing-your-sdlc)
 - [**2024.08.07** - BSides Las Vegas - DevSecOps and Securing your SDLC](#-20240807-bsides-las-vegas-devsecops-and-securing-your-sdlc)
@@ -95,27 +95,8 @@ $ cat /proc/presentations/manifest
 └────────────────────────────────────────────────────────────────┘
 ```
 
-### 🔬 **[2025.02.26]** Microsoft Reactor - *Using the OWASP DSOMM with GitHub*
 
-```diff
-+ PROTOCOL: Talk | COLLABORATION: Microsoft Team Support
-+ PRESENTER: Solo + Microsoft Team Support
-+ TARGET: Microsoft Reactor Attendees
-+ FOCUS: OWASP DSOMM + GitHub Security Integration
-```
-
-In this talk we walk through the OWASP DevSecOps Maturity Model (DSOMM) and look at how implementing GitHub can aid in shifting-left. Alongside discussing the basics of the DSOMM, we also map the use of GitHub services to the model's various dimensions and sub-dimensions and demonstrate how to measure the current maturity state.
-
-```bash
-# Access Points
-LINK_PRIMARY="https://reactor.microsoft.com/en-us/reactor/events/24738/"
-```
-
-**🔗 [NETWORK_LINK]** https://reactor.microsoft.com/en-us/reactor/events/24738/
-
----
-
-### 🌆 **[2025.02.15]** BSides San Francisco - *Shifting Left: A Hands-on Introductory Guide to DevSecOps*
+### 🌆 **[2025.04.26]** BSides San Francisco - *Shifting Left: A Hands-on Introductory Guide to DevSecOps*
 ```diff
 + PROTOCOL: Workshop | DURATION: 2hrs
 + CO-PRESENTER: Dwayne McDaniel [GitGuardian]
@@ -141,7 +122,7 @@ COURSE_MATERIAL="https://github.com/tweag/bsidessf-hands-on-devsecops-2025"
 
 ---
 
-### 🏔️ **[2025.01.25]** BSides Salt Lake City - *DevSecOps - a hands on introductory guide*
+### 🏔️ **[2025.04.10]** BSides Salt Lake City - *DevSecOps - a hands on introductory guide*
 
 ```diff
 + PROTOCOL: Workshop | COLLABORATION: Enabled
@@ -163,6 +144,26 @@ COURSE_MATERIAL="https://github.com/tweag/bsidesslc-2025-shift-left-workshop"
 **🔗 [NETWORK_LINK]** https://www.bsidesslc.org/schedule
 
 **📂 [COURSE_ARCHIVE]** https://github.com/tweag/bsidesslc-2025-shift-left-workshop
+
+---
+
+### 🔬 **[2025.02.26]** Microsoft Reactor - *Using the OWASP DSOMM with GitHub*
+
+```diff
++ PROTOCOL: Talk | COLLABORATION: Microsoft Team Support
++ PRESENTER: Solo + Microsoft Team Support
++ TARGET: Microsoft Reactor Attendees
++ FOCUS: OWASP DSOMM + GitHub Security Integration
+```
+
+In this talk we walk through the OWASP DevSecOps Maturity Model (DSOMM) and look at how implementing GitHub can aid in shifting-left. Alongside discussing the basics of the DSOMM, we also map the use of GitHub services to the model's various dimensions and sub-dimensions and demonstrate how to measure the current maturity state.
+
+```bash
+# Access Points
+LINK_PRIMARY="https://reactor.microsoft.com/en-us/reactor/events/24738/"
+```
+
+**🔗 [NETWORK_LINK]** https://reactor.microsoft.com/en-us/reactor/events/24738/
 
 ---
 
