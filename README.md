@@ -15,7 +15,7 @@ BSidesSF attendees will learn about setting up basic CI/CD processes that incorp
 *Course material:* https://github.com/tweag/bsidessf-hands-on-devsecops-2025
 
 ## BSides Salt Lake City 2025: DevSecOps - a hands on introductory guide
-Co-presetned with Bill Reyor.
+Co-presented with Bill Reyor.
 
 This workshop on DevSecOps walks BSides SLC attendees through the basics of integrating security tooling into tooling into a GitHub Actions based DevOps pipelines
 
@@ -26,7 +26,7 @@ BSides SLC attendees will learn about setting up basic DevSecOps CI/CD processes
 *Course material:* https://github.com/tweag/bsidesslc-2025-shift-left-workshop
 
 ## BSides Connecticut 2024: DevSecOps and Securing your SDLC
-Supported Bill Reyor in the Lab.
+I supported Bill Reyor in the Lab.
 
 A variation on the workshops presented at BSides Las Vegas in 2024. 
 
@@ -44,15 +44,39 @@ This workshop on DevSecOps and securing your SDLC provides BSides Las Vegas part
 
 *Course material:*  https://github.com/tweag/bsideslv-devsecops-sdlc
 
+## BSides Puerto Rico 2024: Shift Down: Foundational Security with Internal Developer Platforms
+Talk presented by myself at BSides PR.
+
+When we use the term platform we can use it in many contexts, here we explore two. First, platform meaning the hosting layer and environment that applications are deployed upon. The second, the self-service interface, tools and mechanisms by which individuals can build and expand upon that underlying hosting layer. Internal Developer Platforms (IDPs) sit within this second context, but leverage the first. An IDP enables platform teams to produce a catalog of reusable infrastructure templates and patterns. Supported by portal interfaces product engineers can leverage these reusable components to deploy supporting services themselves. IDP products such as Cortex and Backstage provide the opportunity for security and governance to be baked into these templating processes, ensuring secure-by-design infrastructure. Not only do we have self-service infrastructure, but self-service security. Here engineers can implement pre-canned secure components and shift security downwards. Complementing the move to “shift-left”, “shifting down” lets engineering teams take advantage of the pre-defined “security as code” available at the platform level. This allows teams to focus on the things that count, such as delivering new products, and not worrying about securely deploying infrastructure. In turn it also aids in reducing the burden placed on Infrastructure and DevOps teams. In this talk I will demonstrate how we can reduce the cognitive load on engineering teams to “learn all the security things” by using a “shift down” approach to secure platform development and the roll out of Internal Developer Platforms.
+
+*Talk link:* https://www.bsides.pr/2024speakers/andy-dennis-
+
+
+## BSides Puerto Rico 2024: Introduction to DevSecOps Workshop
+Presented by myself and William Reyor
+
+The Introduction to DevSecOps Workshop provides BSides PR participants with an introduction to DevSecOps using GitHub and open source tools.
+
+Attendees will learn about setting up a local development environment including pre-commit hooks and other preventative measures. Students will then progress into building out a simple CI/CD pipeline that uses free and open source tooling.
+
+*Link:* https://www.bsides.pr/2024speakers/andy-dennis-
+
+*Course material:*  https://github.com/tweag/bsides-pr-devsecops-2024
 
 ## BSides Tampa 2024: Shifting Security Left, a Hands on Workshop
 Presented in classroom format by myself, Bill Reyor, Rob Barrantes, Sean Clayton, and with support from the GitHub team.
 
-The Introduction to DevSecOps Workshop provides BSides Tampa participants with an introduction to DevSecOps using GitHub and open source tools.
+Shifting Security Left a Hands On Workshop provides participants with an introduction to baking security into the software development process and leveraging DevSecOps tooling to support this.
 
-Attendees will learn about setting up a local development environment including pre-commit hooks and other preventative measures. Students will then progress into building out a simple CI/CD pipeline that uses free and open source tooling.
+Attendees will learn about setting up a local development environment which includes security tools such as IDE plugins. Students will then progress into learning how to use DevSecOps pipelines to detect security issues such as accidentally committed secrets.
+
+The workshop will then wrap up with tips on how to handle secure deployments and a look to what the future holds in this space.
 
 *Link:* https://events.bsidestampa.net/BSidesTampa2024
 
-*Course material:*  https://github.com/tweag/bsides-pr-devsecops-2024
+*Course material:* https://github.com/tweag/bsides-tampa-workshop
+
+
+
+
 
