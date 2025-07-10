@@ -436,9 +436,9 @@ Recorded July 17 at the Stack Overflow offices in New York for the NYC DevOps me
 ```
 ┌────────────────────────────────────────────────────────────────┐
 │ >> ACCESSING PUBLICATION DATABASE...                           │
-│ >> TIMELINE: 2013.02 - 2020.09                                │
+│ >> TIMELINE: 2013.02 - 2020.09                                 │
 │ >> CLASSIFICATION: TECHNICAL_PUBLICATIONS                      │
-│ >> FORMAT: PHYSICAL_MEDIA + DIGITAL_DISTRIBUTION              │
+│ >> FORMAT: PHYSICAL_MEDIA + DIGITAL_DISTRIBUTION               │
 └────────────────────────────────────────────────────────────────┘
 ```
 
