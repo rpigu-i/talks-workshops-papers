@@ -58,8 +58,8 @@ $ cat /proc/presentations/manifest
 ```
 
 ### 🔥 **MATRIX-LEVEL ENGAGEMENTS**
-- [**2025.04.26** - BSides San Francisco - Shifting Left Workshop](#-20250426-bsides-san-francisco-shifting-left-a-hands-on-introductory-guide-to-devsecops)
-- [**2025.04.10** - BSides Salt Lake City - DevSecOps Workshop](#️-20250410-bsides-salt-lake-city-devsecops-a-hands-on-introductory-guide)
+- [**2025.04.26** - BSides San Francisco - Shifting Left Workshop](#-20250426-bsides-san-francisco---shifting-left-a-hands-on-introductory-guide-to-devsecops)
+- [**2025.04.10** - BSides Salt Lake City - DevSecOps Workshop](#%EF%B8%8F-20250410-bsides-salt-lake-city---devsecops---a-hands-on-introductory-guide)
 - [**2025.02.26** - Microsoft Reactor - Using the OWASP DSOMM with GitHub](#-20250226-microsoft-reactor-using-the-owasp-dsomm-with-github)
 - [**2024.12.02** - AWS Re:Invent - GitHub Booth Talk](#️-20241202-aws-reinvent-github-booth-shift-security-left-with-dsomm-and-github)
 - [**2024.11.09** - BSides Connecticut - DevSecOps and Securing your SDLC](#-20241109-bsides-connecticut-devsecops-and-securing-your-sdlc)
