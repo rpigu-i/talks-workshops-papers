@@ -45,9 +45,9 @@ $ cat /proc/presentations/manifest
 
 ```
 ┌────────────────────────────────────────────────────────────────┐
-│ >> INITIALIZING PRESENTATION MODULES...                       │
-│ >> TIMELINE: 2018.07 - 2025.02                               │
-│ >> THREAT LEVEL: EDUCATIONAL                                  │
+│ >> INITIALIZING PRESENTATION MODULES...                        │
+│ >> TIMELINE: 2018.07 - 2025.02                                 │
+│ >> THREAT LEVEL: EDUCATIONAL                                   │
 └────────────────────────────────────────────────────────────────┘
 ```
 
@@ -304,10 +304,10 @@ COURSE_MATERIAL="https://github.com/tweag/bsides-tampa-workshop"
 
 ```
 ┌────────────────────────────────────────────────────────────────┐
-│ >> SWITCHING TO ARCHIVE MODE...                               │
-│ >> ACCESSING LEGACY SYSTEMS...                                │  
-│ >> TIMELINE: 2018.07 - 2023.08                               │
-│ >> CLASSIFICATION: HISTORICAL_DATA                            │
+│ >> SWITCHING TO ARCHIVE MODE...                                │
+│ >> ACCESSING LEGACY SYSTEMS...                                 │  
+│ >> TIMELINE: 2018.07 - 2023.08                                 │
+│ >> CLASSIFICATION: HISTORICAL_DATA                             │
 └────────────────────────────────────────────────────────────────┘
 ```
 
@@ -436,12 +436,12 @@ Recorded July 17 at the Stack Overflow offices in New York for the NYC DevOps me
 ║                     CONNECTION TERMINATED                        ║
 ║                                                                  ║
 ║  "I've seen things you people wouldn't believe. Attack ships     ║
-║   on fire off the shoulder of Orion. I watched C-beams          ║
-║   glitter in the dark near the Tannhäuser Gate.                 ║
-║   All those moments will be lost in time, like tears in rain.   ║
+║   on fire off the shoulder of Orion. I watched C-beams           ║
+║   glitter in the dark near the Tannhäuser Gate.                  ║
+║   All those moments will be lost in time, like tears in rain.    ║
 ║   Time to die."                                                  ║
 ║                                                                  ║
-║                          - Roy Batty, Blade Runner              ║
+║                          - Roy Batty, Blade Runner               ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
