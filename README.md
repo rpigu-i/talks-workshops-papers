@@ -187,6 +187,32 @@ COURSE_MATERIAL="https://github.com/tweag/hope-sec-dev-workshop-2024"
 
 ---
 
+### 🔐 **[2024.06.05]** Microsoft Reactor - *Investigating code security with Copilot*
+
+```diff
++ PROTOCOL: Talk | COLLABORATION: Microsoft Team Support
++ PRESENTER: Solo + Microsoft Team Support
++ TARGET: Microsoft Reactor Attendees
++ FOCUS: Security Vulnerability Detection + Remediation with Copilot
+```
+
+In this talk we provide a brief walk-through using Copilot to aid in detecting and fixing security vulnerabilities in source code. Topics covered include:
+
+- A basic introduction to improving SDLC security using IDE and local environment tools
+- Detecting OWASP Top 10 style vulnerabilities in an example application
+- Remediating detected issues
+- Creating .gitignore files to prevent environment files being committed
+- Looking at how GHAS can be combined with Copilot to improve security further
+
+```bash
+# Access Points
+LINK_PRIMARY="https://developer.microsoft.com/en-us/reactor/events/22657/"
+```
+
+**🔗 [NETWORK_LINK]** https://developer.microsoft.com/en-us/reactor/events/22657/
+
+---
+
 ### 🏝️ **[2024.05.18]** BSides Puerto Rico - *Shift Down: Foundational Security with Internal Developer Platforms*
 
 ```diff
