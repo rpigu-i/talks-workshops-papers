@@ -9,6 +9,12 @@
 
 <div align="center">
 
+**🔥 TALKS & PUBLICATIONS 🔥**
+
+</div>
+
+<div align="center">
+
 **🌐 NEURAL INTERFACE ESTABLISHED 🌐**
 
 ```
@@ -38,6 +44,44 @@ $ cat /proc/presentations/manifest
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 </div>
+
+---
+
+## 📋 **TABLE OF CONTENTS** 📋
+
+```
+┌────────────────────────────────────────────────────────────────┐
+│ >> NAVIGATION MATRIX INITIALIZED...                            │
+│ >> INDEXING AVAILABLE ARCHIVES...                              │
+│ >> ACCESS GRANTED TO ALL SECTORS                               │
+└────────────────────────────────────────────────────────────────┘
+```
+
+### 🔥 **MATRIX-LEVEL ENGAGEMENTS**
+- [**2025.02.26** - Microsoft Reactor - Using the OWASP DSOMM with GitHub](#-20250226-microsoft-reactor-using-the-owasp-dsomm-with-github)
+- [**2025.02.15** - BSides San Francisco - Shifting Left Workshop](#-20250215-bsides-san-francisco-shifting-left-a-hands-on-introductory-guide-to-devsecops)
+- [**2025.01.25** - BSides Salt Lake City - DevSecOps Workshop](#️-20250125-bsides-salt-lake-city-devsecops-a-hands-on-introductory-guide)
+- [**2024.12.02** - AWS Re:Invent - GitHub Booth Talk](#️-20241202-aws-reinvent-github-booth-shift-security-left-with-dsomm-and-github)
+- [**2024.11.09** - BSides Connecticut - DevSecOps and Securing your SDLC](#-20241109-bsides-connecticut-devsecops-and-securing-your-sdlc)
+- [**2024.08.07** - BSides Las Vegas - DevSecOps and Securing your SDLC](#-20240807-bsides-las-vegas-devsecops-and-securing-your-sdlc)
+- [**2024.07.12** - HOPE XV - Mastering Security in Development](#-20240712-hope-xv-mastering-security-in-development)
+- [**2024.06.05** - Microsoft Reactor - Investigating code security with Copilot](#-20240605-microsoft-reactor-investigating-code-security-with-copilot)
+- [**2024.05.18** - BSides Puerto Rico - Shift Down Workshop](#️-20240518-bsides-puerto-rico-shift-down-foundational-security-with-internal-developer-platforms)
+- [**2024.05.18** - BSides Puerto Rico - Introduction to DevSecOps Workshop](#️-20240518-bsides-puerto-rico-introduction-to-devsecops-workshop)
+- [**2024.03.16** - BSides Tampa - Shifting Security Left Workshop](#-20240316-bsides-tampa-shifting-security-left-a-hands-on-workshop)
+- [**2023.08.11** - DEFCON Recon Village - The Perils of Generative AI](#-20230811-defcon-recon-village-the-perils-of-generative-ai-implications-for-open-source-intelligence-research)
+- [**2022.11.08** - BSides Orlando - DevSecOps on a $ store budget](#-20221108-bsides-orlando-devsecops-on-a-store-budget)
+- [**2021.08.07** - DEFCON Recon Village - Using Passive DNS](#️-20210807-defcon-recon-village-using-passive-dns-for-gathering-business-intelligence)
+- [**2020.11.14** - BSides Connecticut - A basic guide to COBOL Security](#️-20201114-bsides-connecticut-a-basic-guide-to-cobol-security)
+- [**2019.11.16** - BSides Connecticut - Election hacking defined](#️-20191116-bsides-connecticut-election-hacking-defined-and-how-to-fight-back)
+- [**2018.07.17** - NYC DevOps Meetup - Baking static analysis](#️-20180717-nyc-devops-meetup-stack-overflow-baking-static-analysis-into-your-ci-pipeline)
+
+### 📚 **DIGITAL ARCHIVES**
+- [**2020.09.14** - Docker for Developers (Packt Publishing)](#-20200914-docker-for-developers-develop-and-run-your-application-with-docker-containers-using-devops-tools-for-continuous-delivery)
+- [**2016.03.22** - Raspberry Pi Computer Architecture Essentials (Packt Publishing)](#️-20160322-raspberry-pi-computer-architecture-essentials)
+- [**2015.02.25** - Raspberry Pi Home Automation with Arduino - Second Edition (Packt Publishing)](#-20150225-raspberry-pi-home-automation-with-arduino-second-edition)
+- [**2013.11.20** - Raspberry Pi Super Cluster (Packt Publishing)](#️-20131120-raspberry-pi-super-cluster)
+- [**2013.02.05** - Raspberry Pi Home Automation with Arduino - First Edition (Packt Publishing)](#-20130205-raspberry-pi-home-automation-with-arduino-first-edition)
 
 ---
 
