@@ -9,7 +9,7 @@
 
 <div align="center">
 
-**✨ TALKS & PUBLICATIONS ✨**
+**🔥 TALKS & PUBLICATIONS 🔥**
 
 </div>
 
